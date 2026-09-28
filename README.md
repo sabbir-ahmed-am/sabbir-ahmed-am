@@ -1,30 +1,21 @@
 # Sabbir Ahmed
-Founder & CEO of Orviton
+SaaS Builder | Full-Stack Developer (MERN)
 Building software that solves real business problems.
 Currently building LeadLeap, a platform that helps businesses
 recover abandoned leads before they are lost.
 
 ## About
-Hi, I'm Sabbir Ahmed, founder of Orviton.
+Hi, I'm Sabbir Ahmed, a SaaS builder and full-stack developer.
 
-I founded Orviton with a simple goal: build software that
-solves real business problems. I believe great software should
-be practical, reliable, and easy to use, not unnecessarily
-complex.
+I build software that solves real business problems. I believe
+great software should be practical, reliable, and easy to use,
+not unnecessarily complex.
 
-Everything we build at Orviton is designed to help businesses
-save time, improve efficiency, and grow.
-
-## About Orviton
-Orviton is a software company focused on building modern
-software for businesses.
-
-Our mission is to create products that solve meaningful problems
-through thoughtful design, simplicity, and reliable technology.
-We build software that businesses can depend on every day.
+Everything I build is designed to help businesses save time,
+improve efficiency, and grow.
 
 ## LeadLeap
-LeadLeap is the first product built by Orviton.
+LeadLeap is the SaaS product I'm currently building.
 
 Every day, businesses lose potential customers because visitors
 leave a website before submitting a contact form. These
@@ -45,18 +36,15 @@ generate more opportunities, improve conversions, and close
 more deals, without changing their existing website.
 
 ## Vision
-I'm building Orviton with a long-term vision of creating
-software that businesses genuinely enjoy using, products that
-are practical, reliable, and built to solve problems that matter.
+I'm building with a long-term vision of creating software that
+businesses genuinely enjoy using, products that are practical,
+reliable, and built to solve problems that matter.
 
 This is the foundation for what's next.
 
 ## Connect
-- Website: [orviton.com](https://www.orviton.com)
-- LinkedIn: [linkedin.com/in/sabbirr-ahmdd](https://www.linkedin.com/in/sabbirr-ahmdd)
+- Website: [leadleap.app](https://leadleap.app)
+- LinkedIn: [linkedin.com/in/sabbir-ahmed-am](https://www.linkedin.com/in/sabbir-ahmed-am)
 - X: [x.com/sabbirr_ahmdd](https://x.com/sabbirr_ahmdd)
-- Medium: [medium.com/@sabbirr_ahmdd](https://medium.com/@sabbirr_ahmdd)
-- Dev.to: [dev.to/sabbirr_ahmdd](https://dev.to/sabbirr_ahmdd)
 - Reddit: [reddit.com/user/sabbirr_ahmdd](https://www.reddit.com/user/sabbirr_ahmdd)
-- GitHub: [github.com/sabbirr-ahmdd](https://github.com/sabbirr-ahmdd)
-- Crunchbase: [Orviton](https://www.crunchbase.com/organization/orviton)
+- GitHub: [github.com/sabbir-ahmed-am](https://github.com/sabbir-ahmed-am)
